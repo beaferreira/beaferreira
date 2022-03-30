@@ -1,4 +1,4 @@
-## Hey, i'm Beatriz and here are some stats about me
+## Oii, meu nome é Beatriz e eu sou estudante de programação e tecnologia
 
  <div align="center">
  <a href="https://github.com/beaferreira">
